@@ -1,7 +1,7 @@
 # brain_tumor_CNN
 
 ## Kurulum
-1. Python için gerekli kütüphaneleri yüklemek için terminale şu komutu yazın: `pip install seaborn`, 'pip install tensorflow'.
+1. Python için gerekli kütüphaneleri yüklemek için terminale şu komutu yazın: `pip install seaborn`, `pip install tensorflow `.
 2. Verisetine [buradan](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri) ulaşabilirsiniz.
 
 ## Transfer Learning
